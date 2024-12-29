@@ -6,5 +6,5 @@ After a year or so, I am back, and I am making some new Roblox hubs! I will be w
 ## CURRENTLY WORKING ON:
 Break In 2 Hub Finished Features:
 - Give tool: Input a tool then click the Give Tool button to give you that tool. For example, if you input Cookie, it will give you a cookie and you can spam it.
-## What the Break In 2 Hub looks like:
+### What the Break In 2 Hub looks like at the moment:
 ![image](https://github.com/user-attachments/assets/b1d4a3ea-f27d-4421-9cba-c15a7cfe306a)
