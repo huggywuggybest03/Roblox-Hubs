@@ -3,8 +3,8 @@ After a year or so, I am back, and I am making some new Roblox hubs! I will be w
 - Roblox has made it so most executors cannot run server-sided code. Which means I will find other games to work on.
 - But some executors have made it past Byfron.
 
-## CURRENTLY WORKING ON:
 Break In 2 Hub Finished Features:
-- Give tool: Input a tool then click the Give Tool button to give you that tool. For example, if you input Cookie, it will give you a cookie and you can spam it.
-### What the Break In 2 Hub looks like at the moment:
-![image](https://github.com/user-attachments/assets/b1d4a3ea-f27d-4421-9cba-c15a7cfe306a)
+- Give Food: Click the dropdown and click your favourite food item you want. Then click it, then click the Give Food button to get it as much times as you want!
+- Give Weapon: Click the dropdown under the next section, click your weapon, then click the button.
+- Give Armor: Gives you the golden armor. No point having a dropdown for this.
+- Other: Gives other stuff, such as a MedKit, Bottle (gym juice), etc
